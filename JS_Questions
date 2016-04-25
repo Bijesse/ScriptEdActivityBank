@@ -1,4 +1,4 @@
-####1 First intro to JS
+|||||||||||| 1 First intro to JS
 
 <!DOCTYPE html>
 <html>
@@ -31,7 +31,7 @@ $(function() {
   });
 });
 
-##2 Madlibs activity in console
+|||||||||||||||2 Madlibs activity in console
 // Variables
 // We need to store a Name and an Adjective. How would we do this?
 
@@ -53,7 +53,7 @@ $(function() {
 // Challenge!
 // How can we update this console.log() and alert() to use a variable for the entire string?
 
-##3 (functions) Dice in the console
+|||||||||||||3 (functions) Dice in the console
 /*
 Directions: Make a program that randomly displays a number 1 through 6 to the console 
 
@@ -72,7 +72,7 @@ function dice() {
 
 console.log(dice());
 
-##4 (functions) average of 2 numbers 
+|||||||||||||4 (functions) average of 2 numbers 
 
 /*
 
@@ -86,7 +86,7 @@ Test your function with console.log on 2 sets of inputs (numbers).
 */
   //To do: Insert you code below this line
 
-##5 (functions) subtracting 1 
+||||||||||||5 (functions) subtracting 1 
 /*
 So Last Year Function
 Directions: Make a program that tells you the grade and age you were last year
@@ -103,7 +103,7 @@ Instructions:
 
 //To do: Insert you code below this line
 
-##6
+|||||||||||||6 (Functions: hard)
 /* 
 Directions: Write a function that returns the result of the following equation: 5a^2 + 4b + c. You should use the pow() function. Your function should take in three parameters (a,b,c).
 
@@ -113,11 +113,11 @@ Test your function with console.log() on 3 different sets of inputs.
 
 //To do: Insert you code below this line
 
-##7 (Debug this code (easy))
+|||||||||||7 (Debug this code (easy))
 var myName = “Han Solo”;
 var myCopilot = “Chewbacca”;
 
 console.log(myName + ‘ ‘ + myCopilot + ‘fly the Millenium Falcon;
 
-##8
+||||||||||||8
 
