@@ -1,0 +1,60 @@
+####1 
+Uses IDs and Classes
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+<p>This should have a green background</p>
+<p>This too</p>
+<p>And this</p>
+<hr>
+<p>This should have blue background</p>
+<p>This too</p>
+<p>And this</p>
+<hr>
+<p>This should be red!</p>
+</body>
+</html>
+
+####2
+Uses IDs and Classes
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+<div class="block">Text</div>
+  <div id="special">Text</div>
+<div class="block">Text</div>
+<div class="block">Text</div>
+</body>
+</html>
+--
+/* 
+1. Use CSS to make the class "block" have a 
+-lightgray background, 
+-1px border, 
+-5px padding, 
+-40px margin 
+*/
+
+
+
+
+/* 
+2. Use CSS to make the ID "special" have a 
+-pink background, 
+-5px border, 
+-20px padding, 
+-5px margin
+*/
+
+####3
+
