@@ -52,3 +52,26 @@
 <img>http://website.com/cool-image.jpg</img>
 </html>
 		
+
+|||||||||7 HTML Debug Large
+There are 11 errors in the code below. Fix them
+1 <!DOCTYPE>
+2 
+3 	<head>
+4 		<title>February 2nd Debugging</title>
+5 	</head>
+6 	</body>
+7	 	<h1>Fix Me!<h1>
+8	 	<h2 id=header>Who will win?</h2>
+9	 	<a src=”www.website.com/image.jpg”>We Will!
+10	 	<p>We’ve learned a lot so far:</p>
+11	 	<div>
+12	 		<ul>
+13	 			 <li>HTML & CSS</li>
+14	 			 <li>JavaScript<li>
+15	 			 <li>jQuery</li>
+16	 			 <il>Command Line</li>
+17	 		 </ul>
+18	 	<p>I love ScriptEd!</p>
+19	 <body>
+20 </html>
