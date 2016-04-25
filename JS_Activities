@@ -113,11 +113,85 @@ Test your function with console.log() on 3 different sets of inputs.
 
 //To do: Insert you code below this line
 
-|||||||||||7 (Debug this code (easy))
+||||||||||||7 (Functions: Medium)
+/*
+Feet to Inches Converter
+Directions: Make a program that converts an object's size in feet into its size in inches
+
+Instructions:
+1. Declare a variable called sizeInFeet and set it equal to 4
+2. Declare a variable called sizeInInches and set it equal sizeInFeet times 12 
+3. Print the size in inches to the console.
+
+Bonus #1: Print " That object is __ inches tall" to the console
+Bonus #2: Use the prompt method to first ask the user "What is the object's size in feet?"
+*/
+
+//Write your code on the next line
+
+|||||||||||8 (Debug this code (easy))
 var myName = “Han Solo”;
 var myCopilot = “Chewbacca”;
 
 console.log(myName + ‘ ‘ + myCopilot + ‘fly the Millenium Falcon;
 
-||||||||||||8
+||||||||||||9 Ten Loops
+//0. Using a while loop, print to console starting from 77 up to  88. 
+//1. Using a for loop, print to console starting from 77 up to 88. 
+
+
+
+
+//2. Using a while loop, print to console starting from 50 down to 40. 
+//3. Using a for loop, print to console starting from 33 down to 22. */
+
+
+
+
+//4. Using a while loop, print to console: 2, 4, 6, 8, 10. 
+//* hint: i=i+1 may need some changing * 
+//5. Using a for loop, print to console: 2, 4, 6, 8, 10.
+
+
+
+//6. Using a for loop, print to console: 1, 3, 5, 7, 9.
+
+
+//7. Using a for loop, print to console 1 to 10 except 7. *hint: use if statements*
+
+
+//8. Using a for loop, add 1 + 2 + 3 + 4 ... + 20. Print to console the sum.
+
+
+//9. Using a for loop, add 2*1 + 2*2 + 2*3 + ... + 2*20. Print to console the sum. 
+
+
+//10. Using a for loop, print 1 to 10 and whether the number is even an odd. 
+//It should print something like: 1 odd, 2 even, 3 odd, ..., 10 even.
+
+||||||||||10 7 Problems with arrays and loops
+// Ex 1: Create an array called called 'artistsArray' containing your three favorite artists. 
+// Print the whole array using console.log(). 
+// The output should look something like: ["Mozart", "Bach", "Beethoven"]
+// (Or something a little more modern...)
+
+// Ex 2: For each artist in the array, print "My #1 favorite artist is Mozart"
+// (replacing 'Mozart' with the artists in your array).
+// Hint: You'll want to use a for loop.
+
+// Ex 3: Add two more artists to your array, and print the updated array.
+
+// Ex 4: Remove the first artist from your array, and print it to the screen.
+// Hint: You'll want to use the Javascript shift() function.
+
+// Ex 5: Add "Bieber" to your array. Next, remove him from the array, using the indexOf() and splice() functions.
+// Print your array before and after removing Bieber, to make sure it worked.
+
+// Ex 6: Pick a random artist in your array, and print it to the screen.
+// Hint: Remember Math.random() ?
+
+// Ex 7 - CHALLENGE:
+// Create another array called 'songsArray.' For each artist in your 'artistsArray' array, add your favorite
+// song by that artist in 'songsArray.' Make sure the artists & the songs are in the same order.
+// Next, use a loop to print, for each artist, "My favorite song by [Artist] is [Song]."
 
