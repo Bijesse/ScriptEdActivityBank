@@ -1,4 +1,4 @@
-####1 HTML Debug
+||||||||1 HTML Debug(easy)
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,4 +11,44 @@
 </body>
 </html>
 
-####2 
+||||||||2 HTML Debug(easy)
+<h1 Let’s Code!></h1>
+<p>ScriptEd is teaching me:</p>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ol>
+
+||||||||3 HTML Debug(easy)
+<div><p>	
+		<img source=“http://www.example.com>
+	</p>
+</div>
+
+|||||||||4 HTML Debug(easy)
+<h2>My Shopping List</h2>
+<ul> 
+	<li>Milk</li>
+	<li>Cheese
+	<li>Bread</li>
+   <li>Ice cream sandwiches</li>
+</ol>
+
+|||||||||5 HTML Debug(easy)
+<h1>
+	Welcome to my web site!
+   <p>
+      This is my web site, the greatest web site 
+      in the whole world…
+   </p>
+</h1>
+
+|||||||||6 HTML Debug image
+<!doctype html>
+<html>
+	<head>
+		<title>A cool image</title>
+	</head>
+<img>http://website.com/cool-image.jpg</img>
+</html>
+		
