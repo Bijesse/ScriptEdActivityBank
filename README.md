@@ -1,2 +1,2 @@
 # ScriptEdQuestionBank
-A grouping of all questions created by volunteers
+A collection of questions and coding challenges created by ScriptEd volunteers
