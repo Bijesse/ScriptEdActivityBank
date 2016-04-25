@@ -1,5 +1,4 @@
-####1
-First intro to JS
+####1 First intro to JS
 
 <!DOCTYPE html>
 <html>
@@ -32,4 +31,93 @@ $(function() {
   });
 });
 
-####2
+##2 Madlibs activity in console
+// Variables
+// We need to store a Name and an Adjective. How would we do this?
+
+
+// prompt()
+// Let's prompt the user for a Noun. How would we do this?
+
+
+// console.log
+// Let's put this all together! Print out the following using our stored variables:
+// ____ is too _________ for ____. 
+// Name        adjective     noun
+
+
+// alert()
+// How could we do this with alert()? 
+
+
+// Challenge!
+// How can we update this console.log() and alert() to use a variable for the entire string?
+
+##3 (functions) Dice in the console
+/*
+Directions: Make a program that randomly displays a number 1 through 6 to the console 
+
+Instructions:
+1. return Math.random() to display a random number between 0 and 1
+2. Multiply your Math.random() function by 6
+3. Use Math.floor() to only display whole numbers between 0 and 5
+4. Add the number one to display a random number between 1 and 6
+*/
+
+function dice() {
+  //To do: Insert you code below this line
+  
+} 
+    
+
+console.log(dice());
+
+##4 (functions) average of 2 numbers 
+
+/*
+
+Directions: Make a function that computes the average of two numbers
+
+Instructions:
+1. Create a function called average with two parameters, x and y
+2. Return the sum of x and y divded by 2
+
+Test your function with console.log on 2 sets of inputs (numbers).
+*/
+  //To do: Insert you code below this line
+
+##5 (functions) subtracting 1 
+/*
+So Last Year Function
+Directions: Make a program that tells you the grade and age you were last year
+
+Instructions:
+1. Declare a function called lastYear.
+2. Give the function a parameter named year. 
+ 2b. Call the function with 2015 as the first parameter
+3. In the body of the function, make a return statement that subtracts one from the parameter.
+4. Create two console.log statements. 
+  4a. one statement should print the grade you were in last year
+  4b. one statement should print the age you were in last year
+*/
+
+//To do: Insert you code below this line
+
+##6
+/* 
+Directions: Write a function that returns the result of the following equation: 5a^2 + 4b + c. You should use the pow() function. Your function should take in three parameters (a,b,c).
+
+Test your function with console.log() on 3 different sets of inputs.
+*/
+
+
+//To do: Insert you code below this line
+
+##7 (Debug this code (easy))
+var myName = “Han Solo”;
+var myCopilot = “Chewbacca”;
+
+console.log(myName + ‘ ‘ + myCopilot + ‘fly the Millenium Falcon;
+
+##8
+
