@@ -1,0 +1,82 @@
+|||||||||||1 Alerting user with input value 
+// ##HTML##
+// create a text input box with a class of “name”, put in a place holder text so the user knows to enter a name.
+
+// create a button with the id of go.
+
+
+// ##Javascript##
+// Target the button, when it is clicked run a function
+
+// The function should grab the value of the input box.
+
+// Alert the user with a greeting, if the name in the text box was Melissa, the alert would say “Hey Melissa”. 
+
+|||||||||||||2 jQuery Pun activity
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+    <h1> HVA </h1>
+    
+    <hr>
+    
+    <div id="joke-1"> 
+        <p>Insert text.</p>     
+    </div>
+    
+    <hr>
+    
+    <div id="joke-2"> 
+        <p> Insert text. </p> 
+    </div>
+    
+    <hr>
+    
+    <img id="joke-3" src="">
+    
+    <hr>
+    
+    <div id="joke-4">
+        <p> Insert text. </p>
+    </div>
+    <div id="answer-4">
+        <p> Insert text. </p>
+    </div>
+    </body>
+</html>
+
+    ---
+    /*
+Directions: Complete the 4 jokes below using jQuery. 
+When the text or image  is clicked it must change to the punchline of the joke.
+Each question must be completed using the jQuery action that is in the comments.
+*/
+
+
+$("#joke-1").click( function(){
+   // .text()
+
+});
+
+$("#joke-2").click( function(){
+   // .append()
+
+});
+
+$("#joke-3").click(function(){
+  // .attr()
+  // use this image "http://i.imgur.com/ZCIkkze.jpg"
+
+});
+
+$("#joke-4").click(function(){
+  // .html()  
+
+});
+
+
